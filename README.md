@@ -1,1 +1,1 @@
-# GPU-Terrain-Generation-Actor-Steering
+# GPU Terrain Generation & Actor Steering
