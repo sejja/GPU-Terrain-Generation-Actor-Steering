@@ -80,7 +80,7 @@ namespace BaleaEngine {
 
 			mWinHandle = CreateWindow(
 				mWinClassName,
-				TEXT("CarProj Final Project"),
+				TEXT("CarProj "),
 				mWindowStyle,
 				10, 10,
 				1792, 1008,
