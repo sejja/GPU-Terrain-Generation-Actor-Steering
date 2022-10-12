@@ -1,6 +1,4 @@
-# GPU Terrain Generation & Actor Steerin
-
-:star: Star me on GitHub — it helps!
+# GPU Terrain Generation & Actor Steering
 
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/diegorr/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
@@ -11,7 +9,7 @@
 
 
 #### Terrain Generation
-<img src="images/ShowcaseTerrain.png" width="900">
+<img src="images/ShowcaseTerrain.jpg" width="900">
   
 
 ## Features 📋
