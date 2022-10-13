@@ -24,7 +24,7 @@
 
 
 ## Tools Used 🛠️
-* <b>Krew Engine</b> - Custom, selfmade engine, to build the Demo.
+* <b>Krew Engine</b> - Custom, self-made engine.
 
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
