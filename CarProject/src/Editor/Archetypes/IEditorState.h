@@ -3,7 +3,7 @@
 //	Balea Engine
 //
 //	Created by Diego Revilla on 21/11/20
-//	Copyright © 2021 Digipen. All Rights reserved
+//	Copyright © 2021 . All Rights reserved
 //
 
 #ifndef _I_EDITOR_STATE__H_

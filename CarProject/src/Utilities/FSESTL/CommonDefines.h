@@ -3,7 +3,7 @@
 //  Astro Engine
 //
 //  Created by Diego Revilla on 28/09/20.
-//  Copyright � 2020 Digipen. All rights reserved.
+//  Copyright � 2020 . All rights reserved.
 //
 
 #ifndef _COMMON_DEFINES__H_

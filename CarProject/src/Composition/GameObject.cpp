@@ -3,7 +3,7 @@
 //	Balea Engine
 //
 //	Created by Alejandro Balea on 06/05/21
-//	Copyright © 2021 Digipen. All Rights reserved
+//	Copyright © 2021 . All Rights reserved
 //
 
 #include <Shared.h>

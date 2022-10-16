@@ -1,7 +1,7 @@
 // ----------------------------------------------------------------------------
-//	Copyright (C)DigiPen Institute of Technology.
+//	Copyright (C) Institute of Technology.
 //	Reproduction or disclosure of this file or its contents without the prior
-//	written consent of DigiPen Institute of Technology is prohibited.
+//	written consent of  Institute of Technology is prohibited.
 //
 //	File Name:		GLDebug.h
 //	Purpose:		This file contains functions used to debug graphics

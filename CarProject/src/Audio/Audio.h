@@ -3,7 +3,7 @@
 //  BaleaEngine
 //
 //  Created by Diego Revilla on 28/3/20.
-//  Copyright � 2020 Digipen. All rights reserved.
+//  Copyright � 2020 . All rights reserved.
 //
 
 #ifndef _AUDIO__H_

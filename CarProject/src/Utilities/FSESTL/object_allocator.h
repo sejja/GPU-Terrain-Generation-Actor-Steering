@@ -1,10 +1,10 @@
 /**
 * @file object_allocator.h
-* @author Diego Revilla, 540000819 , diego.r@digipen.edu
+* @author Diego Revilla, 540000819 , diego.r@.edu
 * @date 2021/01/08
 * @brief implementation for the object allocator
 *
-* @copyright Copyright (C) 2020 DigiPen Institute of Technology .
+* @copyright Copyright (C) 2020  Institute of Technology .
 */
 
 #ifndef OBJECTALLOCATORH

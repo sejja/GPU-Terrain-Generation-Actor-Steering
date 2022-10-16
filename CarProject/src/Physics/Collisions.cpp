@@ -2,9 +2,9 @@
 *	\file		Collisions.cpp
 *	\brief		Logic for the basic 2D collisions
 *	\details	Contains the implementations for Basic Collisions
-*	\author		Diego Revilla - diego.r@digipen.edu
+*	\author		Diego Revilla - diego.r@.edu
 *	\date		19/02/2020
-*	\copyright	Copyright DigiPen Institute Of Technology. All Rights Reserved
+*	\copyright	Copyright  Institute Of Technology. All Rights Reserved
 *
 */
 
